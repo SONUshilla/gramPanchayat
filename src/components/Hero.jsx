@@ -99,7 +99,7 @@ const Hero = () => {
           >
             <div className="absolute -inset-4 bg-gradient-to-tr from-blue-500/20 to-cyan-400/20 rounded-3xl blur-xl"></div>
             <img
-              src="/images/village.png"
+              src="/images/village.webp"
               alt="Village landscape"
               className="relative rounded-2xl shadow-2xl border border-white/10 transform hover:scale-105 transition-transform duration-700"
             />
